@@ -1,5 +1,15 @@
-## Hi there 👋
+## Me presento👋✨
 
+Hola, soy Luisina. Soy Licenciada en Trabajo Social y Analista de Datos.
+Actualmente me formo en Data Science con conocimientos en SQL, Python, Excel, Google Sheets, y herramientas de visualización como Power BI, Tableau y Looker Studio.
+
+ - Data Cleaning / ETL
+ - Consulta y análisis de datos mediante SQL
+ - Creación de informes y dashboards en Tableau, Looker Studio y Power BI
+ - Análisis de datos y elaboración de informes usando Excel y Google Sheets
+
+
+🌱 Este es mi portfolio, donde voy a compartir mis proyectos
 <!--
 **ysaluisina/ysaluisina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
