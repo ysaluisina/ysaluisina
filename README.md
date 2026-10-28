@@ -1,6 +1,6 @@
 ## Me presento👋✨
 
-Hola, soy Luisina. Soy Licenciada en Trabajo Social y Analista de Datos.
+Hola, soy Luisina. Soy Analista de Datos y  Lic. en Trabajo Social
 Actualmente me formo en Data Science con conocimientos en SQL, Python, Excel, Google Sheets, y herramientas de visualización como Power BI, Tableau y Looker Studio.
 
  - Data Cleaning / ETL
